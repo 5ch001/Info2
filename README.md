@@ -1,1 +1,1 @@
-# Info2
+Repository for Info2 homework.
